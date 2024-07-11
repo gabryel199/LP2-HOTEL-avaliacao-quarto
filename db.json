@@ -22,17 +22,5 @@
       "nota": 4,
       "comentario": "xxxxxxx",
       "tipoQuarto_id": 2
-    },
-    {
-      "id": 5,
-      "nota": 3,
-      "comentario": "xxxxxxx",
-      "tipoQuarto_id": 3
-    },
-    {
-      "id": 6,
-      "nota": 5,
-      "comentario": "xxxxxxx",
-      "tipoQuarto_id": 4
     }
   ]
